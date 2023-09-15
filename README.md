@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- days-on-github -->Days on Github in recent 365 days: 0.5972602739726027, 218 / 365<!-- days-on-github -->
+<!-- days-on-github -->Days on Github in recent 365 days: 60%, 218 / 365<!-- days-on-github -->
 Hello There
 
 <!--
