@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!-- days-on-github -->Days on Github in recent 365 days: 220 / 365, 60%<!-- days-on-github -->
-Hello There
-
-<!--
+![](days-on-github.vercel.app/PikiLee)
 **PikiLee/PikiLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
